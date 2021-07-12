@@ -6,9 +6,9 @@
     "url",
     "uploader"
   ],
-  "success_url": "https://telegram.dog/TeleRoid_Hotstar_Bot",
-  "website": "https://github.com/P-Phreak",
-  "repository": "https://github.com/P-Phreak/URLuploader-With-Hotstar",
+  "success_url": "https://telegram.dog/TGBOTSi4_urlupload_bot",
+  "website": "https://github.com/JOHNWICK049",
+  "repository": "https://github.com/JOHNWICK049/TGBOTS-URL-Uploader-Bot",
   "env": {
     "WEBHOOK": {
       "description": "Leave this as it is!",
@@ -33,7 +33,7 @@
     },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot",
-      "value": "1287407305"
+      "value": "1835122337"
     },
     "BANNED_USERS": {
       "description": "Ban Unwanted members..",
