@@ -1,8 +1,8 @@
-## Made from [AnyDLBot](https://telegram.dog/TeleRoid_AnyDLBot)
+## Made from [I ❤ MOVIES](https://t.me/I4MoviesDiscussion)
 
 ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
 
-#### If you find any bugs, report to [TeleRoid](https://telegram.dog/TeleRoid14)
+#### If you find any bugs, report to [I ❤ MOVIES](https://t.me/I4MoviesDiscussion)
 
 ### Features
 
@@ -20,7 +20,7 @@ ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
 
 #### The Easiest Way
 
-**Upgrade** your subscription for [@TeleRoid_Hotstar_Bot](https://telegram.dog/TeleRoid_Hotstar_Bot) without having to run anything on your own
+**Upgrade** your subscription for [TGBOTS URL Upload Bot](http://t.me/TGBOTSi4_urlupload_bot) without having to run anything on your own
 
 #### Deploy to Heroku
 
